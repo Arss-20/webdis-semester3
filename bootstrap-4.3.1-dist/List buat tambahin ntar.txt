@@ -1,0 +1,12 @@
+-Tambahin menu2 dari kartun lain
+-Bikin kategori berdasarkan kartun2 lain juga
+-Tiap card bisa diklik trus masuk ke tab baru yang isinya kaya
+ web e-commerce
+-Di tab baru yg td dimaksud itu isinya ada asal makanan/minuman
+ itu dr kartun mana
+-Bikin tempat buat bikin akun sign in/sign up
+-Gambar backgroundnya diganti jadi langit2 spongebob
+-Elemen2 di webnya dibikin agak transparan yg diatas2 biar 
+ keliatan backgroundnya
+-Footernya diganti jadi tempat email krusty krab ceritanya
+-Tambahin calculator buat ngitung belanjaannya
